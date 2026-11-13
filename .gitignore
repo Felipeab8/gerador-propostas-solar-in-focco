@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+app/saida/
+app/python_path.txt
+app/erros.log
+app/instalacao.log
+~$*

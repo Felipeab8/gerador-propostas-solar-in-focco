@@ -1,0 +1,19 @@
+{
+  "margem_sobre_distribuidora": 1.50,
+  "arredondar_preco_para": 0,
+
+  "tarifa_kwh": 1.05,
+  "reajuste_anual": 0.08,
+  "hsp": 4.23,
+  "performance_ratio": 0.75,
+  "dias_mes": 30,
+
+  "base_kwh_payback": "geracao",
+
+  "area_por_painel_m2": 3.1,
+  "peso_por_painel_kg": 25,
+
+  "valor_conta_fora_taxa": "subtotal_faturamento",
+
+  "overrides": {}
+}

@@ -1,0 +1,40 @@
+﻿GERADOR DE PROPOSTAS - SOLAR IN FOCCO
+=====================================
+
+PRIMEIRA VEZ (só uma vez em cada computador)
+--------------------------------------------
+1. Clique duas vezes em  INSTALAR.bat
+2. Se o Windows perguntar se pode fazer alterações, clique em SIM.
+   (Se aparecer "O Windows protegeu o computador", clique em
+   "Mais informações" e depois em "Executar assim mesmo".)
+3. Espere aparecer "PRONTO!". Pode levar alguns minutos.
+   Precisa estar conectado à internet.
+
+Pronto: vai aparecer na Área de Trabalho o ícone
+"Gerar Proposta Solar In Focco".
+
+
+NO DIA A DIA
+------------
+1. Clique duas vezes no ícone "Gerar Proposta Solar In Focco".
+2. Clique no botão 1 e escolha a CONTA DE ENERGIA do cliente (PDF).
+3. Clique no botão 2 e escolha o ORÇAMENTO DA DISTRIBUIDORA (PDF).
+4. Clique em GERAR PROPOSTA e espere alguns segundos.
+5. Clique em "Abrir proposta (Word)" para conferir.
+
+As propostas ficam salvas em:
+   Documentos > Propostas Solar In Focco > (nome do cliente - data)
+
+Antes de enviar ao cliente, leia os avisos em laranja que aparecem
+na tela. Eles mostram o que precisa ser conferido.
+
+
+PARA TROCAR O MODELO DA PROPOSTA
+--------------------------------
+Substitua os arquivos da pasta "Modelo", mantendo os mesmos nomes:
+   modelo_proposta.docx  e  payback.xlsx
+
+
+SE O ÍCONE SUMIR
+----------------
+Clique duas vezes em  ABRIR GERADOR.bat  (nesta pasta).
